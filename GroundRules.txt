@@ -1,0 +1,14 @@
+Python is a case sensitive language - 'A' is not seen as 'a'
+
+Variables are a way of storing a value. Put simply it is a name that represents a value
+Rules for naming variables in Python
+1. Variables should not have spaces - date of birth (invalid), date_of_birth (valid)
+2. Variables do not start with numbers - 12strong, 1hundred (invalid), strong_12, hundred1, ten2two (valid)
+3. Variables should not be the same with keywords or reserverd words (identifiers)
+4. Variables cannot take in special characters - !@#$%^&*(){}|,./
+
+When there is an opening ther should also be a closing
+[close]
+"your"
+'brackets'
+(always)
